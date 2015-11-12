@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+    NOTE: This file has been modified by Sony Mobile Communications Inc.
+    Modifications are Copyright (C) 2014 Sony Mobile Communications Inc.,
+    and licensed under the license of the file.
+
     NOTE: this is the newer (L) version of the system font configuration,
     supporting richer weight selection. Some apps will expect the older
     version, so please keep system_fonts.xml and fallback_fonts.xml in sync
@@ -359,6 +363,9 @@
     </family>
     <family>
         <font weight="400" style="normal">DroidSansFallback.ttf</font>
+    </family>
+    <family lang="ja">
+        <font weight="400" style="normal">SomcUDGothic-Regular.ttf</font>
     </family>
     <family lang="ja">
         <font weight="400" style="normal">MTLmr3m.ttf</font>

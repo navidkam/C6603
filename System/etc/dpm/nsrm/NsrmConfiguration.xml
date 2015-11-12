@@ -25,6 +25,7 @@
     <SharedUIDMode>Conservative</SharedUIDMode>
     <!--List of applications which to apply Nsrm to-->
     <AppList Type="Exclusion">
+    <AppName>com.whatsapp</AppName>
     </AppList>
     <!-- Example MCC_MNC configuration
          NTO values are configured in seconds
